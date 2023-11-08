@@ -1,0 +1,15 @@
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/PetClinicIntegrationTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/MysqlTestApplication.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/PostgresIntegrationTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/MySqlIntegrationTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerIntegrationTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java
+/apps/spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java
